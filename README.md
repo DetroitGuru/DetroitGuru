@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @DetroitGuru
+# 👋 Hi, I’m DetroitGuru
 
 ## 🔭 About Me
 - I’m a passionate **self-taught developer** diving deep into the world of coding.  
